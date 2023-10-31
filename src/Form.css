@@ -86,7 +86,7 @@
 
     .title__input {
         margin-top: 7px;
-        width: 17rem;
+        width: 21.3rem;
         margin-left: 1rem;
         padding: 7px;
         border-radius: 3px;
@@ -105,7 +105,7 @@
     
     .author__input {
         margin-top: 7px;
-        width: 17rem;
+        width: 21.3rem;
         margin-left: 1rem;
         padding: 7px;
         border-radius: 3px;
@@ -124,7 +124,7 @@
     
     .isbn__input {
         margin-top: 7px;
-        width: 17rem;
+        width: 21.3rem;
         margin-left: 1rem;
         padding: 7px;
         border-radius: 3px;
@@ -140,7 +140,7 @@
         font-weight: bold;
         background: #1386a9;
         margin-top: 7px;
-        width: 17rem;
+        width: 21.3rem;
         margin-left: 1rem;
         padding: 7px;
         border-radius: 3px;
@@ -148,7 +148,7 @@
     }
 
     table{
-        width: 16rem;
+        width: 21rem;
         margin-top: 30px;
         margin-left: 17px;
     }
