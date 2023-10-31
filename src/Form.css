@@ -1,0 +1,155 @@
+.title__label{
+    font-size: 2rem;
+    margin-left: 3rem;
+    font-weight: bold;
+}
+
+.title__input {
+    margin-top: 7px;
+    width: 70rem;
+    margin-left: 3rem;
+    padding: 7px;
+    border-radius: 3px;
+    outline: none;    
+}
+
+.author__div{
+    margin-top: 1rem;
+}
+
+.author__label {
+    font-size: 2rem;
+    margin-left: 3rem;
+    font-weight: bold;
+}
+
+.author__input {
+    margin-top: 7px;
+    width: 70rem;
+    margin-left: 3rem;
+    padding: 7px;
+    border-radius: 3px;
+    outline: none;
+
+}
+
+.isbn__div{
+    margin-top: 1rem; 
+}
+
+
+.isbn__label {
+    font-size: 2rem;
+    margin-left: 3rem;
+    margin-top: 17px;
+    font-weight: bold;
+}
+
+.isbn__input {
+    width: 70rem;
+    margin-top: 7px;
+    margin-left: 3rem;
+    padding: 7px;
+    border-radius: 3px;
+    outline: none;
+ 
+}
+
+.btn__div{
+    margin-top: 2rem; 
+}
+
+.btn{
+    width: 70rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    padding: 7px;
+    border-radius: 5px;
+    background: #1386a9;
+}
+
+.form-container{
+    /* display: none; */
+}
+
+@media only screen and (max-width: 600px) {
+.form-container{
+    width: 100%;
+}
+
+    .title__label{
+        font-size: 1.5rem;
+        margin-left: 1rem;
+        font-weight: bold;
+    }
+
+    .title__input {
+        margin-top: 7px;
+        width: 17rem;
+        margin-left: 1rem;
+        padding: 7px;
+        border-radius: 3px;
+        outline: none;    
+    }
+
+    .author__div{
+        margin-top: 1rem;
+    }
+    
+    .author__label {
+        font-size: 1.5rem;
+        margin-left: 1rem;
+        font-weight: bold;
+    }
+    
+    .author__input {
+        margin-top: 7px;
+        width: 17rem;
+        margin-left: 1rem;
+        padding: 7px;
+        border-radius: 3px;
+        outline: none;   
+    }
+    
+    .isbn__div{
+        margin-top: 1rem; 
+    }
+    
+    .isbn__label {
+        font-size: 1.5rem;
+        margin-left: 1rem;
+        font-weight: bold;
+    }
+    
+    .isbn__input {
+        margin-top: 7px;
+        width: 17rem;
+        margin-left: 1rem;
+        padding: 7px;
+        border-radius: 3px;
+        outline: none;  
+    }
+
+    .btn__div{
+        margin-top: 2rem; 
+    }
+    
+    .btn{
+        font-size: 1rem;
+        font-weight: bold;
+        background: #1386a9;
+        margin-top: 7px;
+        width: 17rem;
+        margin-left: 1rem;
+        padding: 7px;
+        border-radius: 3px;
+        outline: none;  
+    }
+
+    table{
+        width: 16rem;
+        margin-top: 30px;
+        margin-left: 17px;
+    }
+}

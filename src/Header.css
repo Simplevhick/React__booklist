@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.BookList__header{
+    display: flex;
+    margin: 10px;
+    margin-left: 26rem;
+    margin-top: 0.5rem;
+    align-items: center;
+}
+
+.header{
+    font-size: 3rem;
+    margin-left: 10px;
+    color: #1386a9;
+
+}
+
+.icon{
+    font-size: 3rem;
+    color: black;
+
+}
+
+/* media query */
+
+@media screen and (max-width: 600px) {
+    .BookList__header {
+        display: flex;
+        margin: 10px;
+        margin-left: 2rem;
+        margin-top: 1rem;
+        align-items: center;
+        width: 100%;
+    }
+
+    .header{
+        font-size: 2rem;
+        margin-left: 5px;
+        color: #1386a9;
+    
+    }
+
+    .icon{
+        font-size: 2rem;
+        color: black;    
+    }
+}
